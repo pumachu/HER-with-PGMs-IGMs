@@ -1,5 +1,0 @@
- 269.532;Regular k-point mesh   ! Title, not important
-0                      ! (0  automatic | N user-specified number) specifies the number of k-points
-Gamma                  ! generate a Gamma centered mesh
-10  10  1              ! (at least 1/a/0.02, where a is lattice constant) subdivisions N_1, N_2 and N_3 along the reciprocal lattice vectors
-0  0  0                ! optional shift of the mesh (s_1, s_2, s_3)
