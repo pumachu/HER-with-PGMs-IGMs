@@ -1,4 +1,4 @@
-# hea-paper-2023-pgms-igms
+# hea-paper-2024-pgms-igms
 This is the repository of the work "A catalyst family of high-entropy alloy atomic layers with square atomic arrangements comprising iron- and platinum-group metals" containing the inputs and outputs of VASP computations. The key results are summarized in **Figure 1**.
 
 ## Article information  
