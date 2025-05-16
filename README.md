@@ -1,6 +1,13 @@
-# HER-with-PGMs-IGMs
-This is the repository of the work "A Catalyst Family of Metastable High-Entropy-Alloy Atomic Layers with Square Atomic Arrangements Comprising Iron- and Platinum-Group Metals" containing the inputs and outputs of VASP computations. The key results are summarized in **Figure 1**.
+# hea-paper-2023-pgms-igms
+This is the repository of the work "A catalyst family of high-entropy alloy atomic layers with square atomic arrangements comprising iron- and platinum-group metals" containing the inputs and outputs of VASP computations. The key results are summarized in **Figure 1**.
 
+## Article information  
+A catalyst family of high-entropy alloy atomic layers with square atomic arrangements comprising iron- and platinum-group metals 
+Cheng-Yu Wu, Yueh-Chun Hsiao, Yi Chen, Kun-Han Lin, Tsung-Ju Lee, Chong-Chi Chi, Jui-Tai Lin, Liang-Ching Hsu, Hsin-Jung Tsai, Jia-Qi Gao, Chun-Wei Chang, I-Ting Kao, Chia-Ying Wu, Ying- Rui Lu , Chih-Wen Pao, Sung-Fu Hung, Ming-Yen Lu, Shan Zhou, Tung- Han Yang* 
+Science Advances 2024, 10, eadl3693. https://doi.org/10.1126/sciadv.adl3693 
+<br />
+<br />
+  
 <img src="https://github.com/pumachu/HER-with-PGMs-IGMs/assets/72870425/53b17097-d1f5-47ba-8204-6c99077a4170">
 
 **Figure 1.** Hydrogen adsorption behaviors on Pd@PtRuFeCoNi and Pd@IrRuFeCoNi investigated using DFT.
